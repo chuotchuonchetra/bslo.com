@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "D:/website"
+    },
+    {
+      "path": "."
+    },
+    {
+      "path": "../reancss"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "website"
+  }
+}
